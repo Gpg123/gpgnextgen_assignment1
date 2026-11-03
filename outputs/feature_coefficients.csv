@@ -1,0 +1,9 @@
+Feature,Coefficient,Odds_Ratio_per_SD
+Glucose,1.183,3.263
+BMI,0.689,1.991
+Pregnancies,0.377,1.459
+DiabetesPedigreeFunction,0.233,1.263
+Age,0.148,1.159
+SkinThickness,0.028,1.029
+BloodPressure,-0.044,0.957
+Insulin,-0.066,0.936
